@@ -1,0 +1,38 @@
+   whatsapp payment scenario-
+
+
+   1. verify mobile whatsapp mobile number valid or not
+   2. verify both sender and receiver get notification after transaction
+   3. Verfify UPI ID is generated or not
+   4. Check amount is debited from account and credited in receiver's account
+   5. check after transaction status shows payment succesfull or not
+   6. Whatsapp shows transaction succesfull but money is not deducted from your account then retry option is given
+   7. check given failur reason bank's server down or not in use
+   8. check network courage
+   9. check UPI pin, if pin is wrong then transacrtion fail insatant
+   10. check payment request is accepted or not
+   11. if payment request is not accepted then payment request instantly declined anf if accepted then it opens with UPI payment screen
+   12. check payment pending status, after sometimes payment status show success or failed
+
+
+   whatapp group scenario-
+
+
+   1. create group and check it group created succesfully or not
+   2. check group icon and name appear at the top or not
+   3. check group admin can add members in group 
+   4. check new member get notification of 'you've been added in group
+   5. check group admin can remove any member in group 
+   6. check removed member get notification of 'you were removed from group'
+   7. other member see X member in group
+   8. check limit of members
+   9. check if multiply admins so they all can manage group settigs
+   10. group user can mute notification or not
+   11. group user can mute notification for 8 hours, 1 week or always
+   12. check message delivered to all members
+   13. non admins see 'only admin can send message'
+   14. message shows single tick until internet reconnect
+   
+ 
+
+
